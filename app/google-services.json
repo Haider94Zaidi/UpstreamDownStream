@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235530644796",
+    "firebase_url": "https://upstreamdownstream-44c6b.firebaseio.com",
+    "project_id": "upstreamdownstream-44c6b",
+    "storage_bucket": "upstreamdownstream-44c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235530644796:android:755d811c9c7a0c92",
+        "android_client_info": {
+          "package_name": "com.example.haider.upstreamdownstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235530644796-98o1kb60misu5k1f46er67m3ds0k41va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haider.upstreamdownstream",
+            "certificate_hash": "4758a30301dc5ece2027de224d3dfd41211fb69f"
+          }
+        },
+        {
+          "client_id": "235530644796-ehmb9qio907r7l2ck1l4gs3qr2ivli60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFj9iCzBITw6W4G7mFTdNWPtIVs78zqUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235530644796-ehmb9qio907r7l2ck1l4gs3qr2ivli60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
